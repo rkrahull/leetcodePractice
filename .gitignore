@@ -12,7 +12,3 @@
 *.zip
 *.tar.gz
 *.rar
-
-*.classpath
-*.project
-*.settings
