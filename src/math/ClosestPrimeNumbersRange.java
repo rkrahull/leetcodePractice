@@ -1,4 +1,8 @@
 package math;
+
+import java.util.ArrayList;
+import java.util.List;
+
 /*TC : O(Rlog(log(R))+R−L)
 SC : O(R)*/
 class ClosestPrimeNumbersRange {

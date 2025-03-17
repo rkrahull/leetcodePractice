@@ -1,4 +1,7 @@
 package arrays;
+
+import java.util.*;
+
 class MajorityElement2 {
     //TC : O(NlogN)
     //SC : O(N)
